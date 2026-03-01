@@ -48,11 +48,14 @@ function Navigation() {
 
 // Hero Section
 function Hero() {
-  const { scrollYProgress } = useScroll()
+  const heroRef = useRef(null)
+  const { scrollYProgress } = useScroll({ target: heroRef, offset: ["start start", "end start"] })
   const y = useTransform(scrollYProgress, [0, 1], [0, 300])
+  const opacity = useTransform(scrollYProgress, [0, 0.4], [1, 0])
+  const scale = useTransform(scrollYProgress, [0, 0.4], [1, 0.97])
 
   return (
-    <section className="hero">
+    <section className="hero" ref={heroRef}>
       <div className="hero-bg">
         <motion.div className="hero-gradient-1" style={{ y }} />
         <motion.div className="hero-gradient-2" style={{ y: useTransform(scrollYProgress, [0, 1], [0, -200]) }} />
@@ -65,6 +68,7 @@ function Hero() {
           initial="hidden"
           animate="visible"
           variants={staggerContainer}
+          style={{ opacity, scale }}
         >
           <motion.div className="hero-badge" variants={fadeInUp}>
             <span className="hero-badge-dot" />
@@ -202,7 +206,7 @@ function CTASection() {
         >
           <div className="cta-content">
             <h2>Ready to Grow Your <span className="highlight">Practice</span>?</h2>
-            <p>Book a free discovery call and let's discuss how we can help you attract more qualified coaching clients.</p>
+            <p>Book a demo call and let's discuss how we can help you attract more qualified coaching clients.</p>
             <div className="cta-form">
               <a href="https://calendly.com/acquisition-pro/discovery-call" target="_blank" rel="noopener noreferrer" className="btn-primary">
                 Book Your Discovery Call
