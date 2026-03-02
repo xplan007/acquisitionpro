@@ -795,7 +795,7 @@
   display: flex;
   gap: 1rem;
   max-width: 500px;
-  margin: 0 auto;
+  margin: 0 auto var(--space-md);
   flex-wrap: wrap;
   justify-content: center;
 }
@@ -823,7 +823,7 @@
 }
 
 .cta-guarantee {
-  margin-top: var(--space-md);
+  margin-top: 0;
   font-size: 0.9rem;
   color: var(--white-dim);
 }
