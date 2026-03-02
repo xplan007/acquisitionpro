@@ -192,7 +192,7 @@ export default function TermsOfService() {
           <p>If you have questions about these Terms, please contact us:</p>
           <ul className="contact-list">
             <li><strong>AcquisitionPro LLC</strong></li>
-            <li>Email: <a href="mailto:contact@acquisitions-pro.com">contact@acquisitions-pro.com</a></li>
+            <li>Email: <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a></li>
             <li>Website: <a href="https://acquisitions-pro.com">acquisitions-pro.com</a></li>
           </ul>
         </section>

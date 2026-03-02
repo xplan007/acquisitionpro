@@ -45,7 +45,7 @@ export default function RefundPolicy() {
           <p>
             If you wish to cancel before any work has begun (prior to your strategy session), you may
             request a full refund of any payments made. Cancellation requests must be submitted in
-            writing to <a href="mailto:contact@acquisitions-pro.com">contact@acquisitions-pro.com</a>.
+            writing to <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a>.
           </p>
 
           <h3>After Service Commencement</h3>
@@ -93,7 +93,7 @@ export default function RefundPolicy() {
           <ol>
             <li>
               Email us at{' '}
-              <a href="mailto:contact@acquisitions-pro.com">contact@acquisitions-pro.com</a>{' '}
+              <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a>{' '}
               with the subject line "Refund Request"
             </li>
             <li>Include your full name, email address associated with your account, and reason for the request</li>
@@ -115,7 +115,7 @@ export default function RefundPolicy() {
           <h2>7. Disputes</h2>
           <p>
             If you are dissatisfied with our services, we encourage you to contact us first at{' '}
-            <a href="mailto:contact@acquisitions-pro.com">contact@acquisitions-pro.com</a> so we
+            <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a> so we
             can work together to resolve the issue. We are committed to finding a fair resolution
             before any formal dispute process.
           </p>
@@ -139,7 +139,7 @@ export default function RefundPolicy() {
           <p>For refund requests or questions about this policy:</p>
           <ul className="contact-list">
             <li><strong>AcquisitionPro LLC</strong></li>
-            <li>Email: <a href="mailto:contact@acquisitions-pro.com">contact@acquisitions-pro.com</a></li>
+            <li>Email: <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a></li>
             <li>Website: <a href="https://acquisitions-pro.com">acquisitions-pro.com</a></li>
           </ul>
         </section>

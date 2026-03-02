@@ -149,7 +149,7 @@ export default function PrivacyPolicy() {
           </ul>
           <p>
             To exercise any of these rights, please contact us at{' '}
-            <a href="mailto:contact@acquisitions-pro.com">contact@acquisitions-pro.com</a>.
+            <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a>.
           </p>
         </section>
 
@@ -176,7 +176,7 @@ export default function PrivacyPolicy() {
           <p>If you have questions about this Privacy Policy, please contact us:</p>
           <ul className="contact-list">
             <li><strong>AcquisitionPro LLC</strong></li>
-            <li>Email: <a href="mailto:contact@acquisitions-pro.com">contact@acquisitions-pro.com</a></li>
+            <li>Email: <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a></li>
             <li>Website: <a href="https://acquisitions-pro.com">acquisitions-pro.com</a></li>
           </ul>
         </section>
