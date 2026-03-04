@@ -187,7 +187,7 @@ export default function PrivacyPolicy() {
           <p>&copy; {new Date().getFullYear()} AcquisitionPro LLC. All rights reserved.</p>
           <div className="legal-footer-links">
             <Link to="/terms-of-service">Terms of Service</Link>
-            <Link to="/refund-policy">Refund Policy</Link>
+            <Link to="/refund-policy">Cancellation Policy</Link>
             <Link to="/">Home</Link>
           </div>
         </div>

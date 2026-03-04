@@ -17,126 +17,146 @@ export default function RefundPolicy() {
       </nav>
 
       <div className="container legal-container">
-        <h1>Refund & Cancellation Policy</h1>
-        <p className="legal-updated">Last updated: March 1, 2026</p>
+        <h1>Cancellation Policy</h1>
+        <p className="legal-updated">Last updated: March 4, 2026</p>
 
         <section>
           <h2>1. Overview</h2>
           <p>
-            At AcquisitionPro LLC, we are committed to delivering high-quality lead generation and
-            client acquisition services for executive and leadership coaches. We understand that
-            circumstances may change, and this policy outlines our refund and cancellation procedures.
+            At AcquisitionPro LLC, we provide custom lead generation and client acquisition
+            services for executive and leadership coaches. This policy outlines our cancellation
+            terms and conditions. By engaging our services and signing a service agreement, you
+            acknowledge and agree to the terms set forth below.
           </p>
         </section>
 
         <section>
-          <h2>2. Service Nature</h2>
+          <h2>2. Service Structure</h2>
           <p>
-            Our services are custom B2B marketing and lead generation engagements that require
-            significant upfront work, including strategy development, funnel creation, ad campaign
-            setup, and outreach system configuration. Because of the labor-intensive and custom
-            nature of our services, the following refund terms apply.
-          </p>
-        </section>
-
-        <section>
-          <h2>3. Cancellation Policy</h2>
-          <h3>Before Service Commencement</h3>
-          <p>
-            If you wish to cancel before any work has begun (prior to your strategy session), you may
-            request a full refund of any payments made. Cancellation requests must be submitted in
-            writing to <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a>.
-          </p>
-
-          <h3>After Service Commencement</h3>
-          <p>
-            Once work has begun (after the strategy session or any deliverables have been started),
-            cancellations are handled as follows:
+            Our engagements consist of two components:
           </p>
           <ul>
             <li>
-              <strong>Within the first 7 days of service commencement:</strong> You may cancel and
-              receive a prorated refund minus any work already completed and costs incurred (ad spend,
-              third-party tools, etc.).
+              <strong>Setup & Onboarding:</strong> A one-time engagement covering LinkedIn profile
+              optimization, prospect targeting, campaign strategy development, outreach system
+              configuration, and campaign launch. This work begins immediately upon agreement
+              execution and payment.
             </li>
             <li>
-              <strong>After 7 days of service commencement:</strong> Cancellations will be effective
-              at the end of the current billing period. No refund will be issued for the current
-              billing period, but no further charges will be made.
+              <strong>Performance-Based Delivery:</strong> Ongoing appointment generation where
+              fees are charged per confirmed booked appointment delivered to you. You are only
+              invoiced for results that have already been delivered.
             </li>
+          </ul>
+          <p>
+            All terms, deliverables, and fee structures are outlined in your individual service
+            agreement, which must be signed prior to any payment or work commencing.
+          </p>
+        </section>
+
+        <section>
+          <h2>3. No-Refund Policy</h2>
+          <p>
+            All payments made to AcquisitionPro LLC are <strong>non-refundable</strong>. This
+            applies to both the setup and onboarding fee and any per-appointment fees. Here is why:
+          </p>
+          <ul>
+            <li>
+              <strong>Setup & Onboarding fees</strong> cover custom, labor-intensive work that
+              begins immediately upon agreement execution. This includes strategy development,
+              profile optimization, targeting research, campaign creation, and system configuration, all of which are performed specifically for your business and cannot be reused
+              or reversed.
+            </li>
+            <li>
+              <strong>Per-appointment fees</strong> are only charged after a qualified appointment
+              has been successfully booked and confirmed. Since the service has already been
+              delivered at the time of invoicing, these fees are non-refundable.
+            </li>
+          </ul>
+          <p>
+            In the event of a duplicate or erroneous charge caused by a billing error on our end,
+            we will issue a correction promptly. Please contact us within 7 days of the charge.
+          </p>
+        </section>
+
+        <section>
+          <h2>4. Cancellation Terms</h2>
+
+          <h3>Before Work Begins</h3>
+          <p>
+            If you wish to cancel before your signed service agreement has been executed and
+            before any payment has been made, you may do so at no cost. Simply notify us in
+            writing at{' '}
+            <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a>.
+          </p>
+
+          <h3>After Setup & Onboarding Has Started</h3>
+          <p>
+            Once the setup and onboarding phase has begun, this fee is non-refundable as work
+            is already underway. You may request to cancel the ongoing appointment generation
+            component at any time by providing written notice. Upon cancellation:
+          </p>
+          <ul>
+            <li>No further appointments will be generated on your behalf.</li>
+            <li>You will be invoiced for any appointments already booked up to the cancellation date.</li>
+            <li>The setup and onboarding fee remains non-refundable, as the work has been completed or is in progress.</li>
+            <li>Cancellation takes effect within 5 business days of receiving your written notice.</li>
+          </ul>
+
+          <h3>How to Cancel</h3>
+          <p>
+            To cancel your service, send a written request to{' '}
+            <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a>{' '}
+            with the subject line "Cancellation Request." Include your full name and the
+            email address associated with your account. We will confirm receipt and process
+            your cancellation within 2 business days.
+          </p>
+        </section>
+
+        <section>
+          <h2>5. Dispute Resolution</h2>
+          <p>
+            If you have concerns about our services or any charges, we strongly encourage you
+            to contact us directly at{' '}
+            <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a>{' '}
+            before taking any other action. We are committed to resolving any issues promptly
+            and fairly.
+          </p>
+          <p>
+            By agreeing to our service terms, you acknowledge that filing a chargeback or
+            payment dispute with your bank or card issuer without first attempting to resolve
+            the matter with us directly may result in additional administrative fees and will
+            delay resolution. We reserve the right to submit evidence of the signed service
+            agreement, delivered work, and correspondence to contest any unauthorized disputes.
+          </p>
+        </section>
+
+        <section>
+          <h2>6. Your Acknowledgment</h2>
+          <p>
+            By signing your service agreement and making a payment, you confirm that you have
+            read, understood, and agree to this Cancellation Policy, including the no-refund
+            terms. You acknowledge that:
+          </p>
+          <ul>
+            <li>The setup and onboarding fee covers custom work that begins immediately and is non-refundable.</li>
+            <li>Per-appointment fees are charged only for delivered results and are non-refundable.</li>
+            <li>You may cancel ongoing services at any time, but all fees for work completed or results delivered remain due.</li>
           </ul>
         </section>
 
         <section>
-          <h2>4. Refund Eligibility</h2>
-          <p>Refunds may be issued in the following circumstances:</p>
-          <ul>
-            <li>Cancellation before service commencement (full refund)</li>
-            <li>Cancellation within 7 days of service start (prorated refund)</li>
-            <li>Service not delivered as described in the signed service agreement</li>
-            <li>Duplicate or erroneous charges (full refund of the duplicate amount)</li>
-          </ul>
-
-          <h3>Non-Refundable Items</h3>
-          <p>The following are non-refundable:</p>
-          <ul>
-            <li>Ad spend and third-party platform costs already incurred on your behalf</li>
-            <li>Custom creative work already delivered (landing pages, ad creatives, copy)</li>
-            <li>Setup and configuration fees for completed work</li>
-            <li>Services already rendered and delivered</li>
-          </ul>
-        </section>
-
-        <section>
-          <h2>5. How to Request a Refund</h2>
-          <p>To request a refund or cancellation:</p>
-          <ol>
-            <li>
-              Email us at{' '}
-              <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a>{' '}
-              with the subject line "Refund Request"
-            </li>
-            <li>Include your full name, email address associated with your account, and reason for the request</li>
-            <li>We will acknowledge your request within 2 business days</li>
-            <li>Approved refunds will be processed within 5-10 business days</li>
-          </ol>
-        </section>
-
-        <section>
-          <h2>6. Refund Processing</h2>
+          <h2>7. Modifications</h2>
           <p>
-            All approved refunds will be processed through Stripe to the original payment method.
-            Please allow 5-10 business days for the refund to appear on your statement, depending
-            on your bank or card issuer.
+            We reserve the right to update this Cancellation Policy at any time. Changes will
+            be posted on this page with an updated "Last updated" date. The policy in effect
+            at the time you sign your service agreement will apply to that engagement.
           </p>
         </section>
 
         <section>
-          <h2>7. Disputes</h2>
-          <p>
-            If you are dissatisfied with our services, we encourage you to contact us first at{' '}
-            <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a> so we
-            can work together to resolve the issue. We are committed to finding a fair resolution
-            before any formal dispute process.
-          </p>
-          <p>
-            Filing a chargeback or payment dispute without first contacting us may result in
-            additional fees and delay the resolution process.
-          </p>
-        </section>
-
-        <section>
-          <h2>8. Modifications</h2>
-          <p>
-            We reserve the right to update this Refund & Cancellation Policy at any time. Changes
-            will be posted on this page with an updated "Last updated" date. The policy in effect
-            at the time of your purchase will apply to that transaction.
-          </p>
-        </section>
-
-        <section>
-          <h2>9. Contact Us</h2>
-          <p>For refund requests or questions about this policy:</p>
+          <h2>8. Contact Us</h2>
+          <p>For cancellation requests or questions about this policy:</p>
           <ul className="contact-list">
             <li><strong>AcquisitionPro LLC</strong></li>
             <li>Email: <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a></li>

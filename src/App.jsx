@@ -255,7 +255,7 @@ function Footer() {
             <ul>
               <li><Link to="/privacy-policy">Privacy Policy</Link></li>
               <li><Link to="/terms-of-service">Terms of Service</Link></li>
-              <li><Link to="/refund-policy">Refund Policy</Link></li>
+              <li><Link to="/refund-policy">Cancellation Policy</Link></li>
             </ul>
           </div>
         </div>
