@@ -23,7 +23,7 @@ export default function PrivacyPolicy() {
         <section>
           <h2>1. Introduction</h2>
           <p>
-            AcquisitionPro LLC ("we," "us," or "our") operates the website at acquisitions-pro.com
+            AcquisitionPro LLC ("we," "us," or "our") operates the website at acquisitionpro.net
             (the "Site"). This Privacy Policy explains how we collect, use, disclose, and safeguard
             your information when you visit our Site or use our services.
           </p>
@@ -177,7 +177,7 @@ export default function PrivacyPolicy() {
           <ul className="contact-list">
             <li><strong>AcquisitionPro LLC</strong></li>
             <li>Email: <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a></li>
-            <li>Website: <a href="https://acquisitions-pro.com">acquisitions-pro.com</a></li>
+            <li>Website: <a href="https://acquisitionpro.net">acquisitionpro.net</a></li>
           </ul>
         </section>
       </div>

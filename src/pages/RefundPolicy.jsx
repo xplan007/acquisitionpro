@@ -140,7 +140,7 @@ export default function RefundPolicy() {
           <ul className="contact-list">
             <li><strong>AcquisitionPro LLC</strong></li>
             <li>Email: <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a></li>
-            <li>Website: <a href="https://acquisitions-pro.com">acquisitions-pro.com</a></li>
+            <li>Website: <a href="https://acquisitionpro.net">acquisitionpro.net</a></li>
           </ul>
         </section>
       </div>

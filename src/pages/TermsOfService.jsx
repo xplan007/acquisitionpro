@@ -25,7 +25,7 @@ export default function TermsOfService() {
           <p>
             These Terms of Service ("Terms") constitute a legally binding agreement between you and
             AcquisitionPro LLC ("we," "us," or "our") governing your use of our website at
-            acquisitions-pro.com (the "Site") and our lead generation, marketing, and client
+            acquisitionpro.net (the "Site") and our lead generation, marketing, and client
             acquisition services (the "Services").
           </p>
           <p>
@@ -193,7 +193,7 @@ export default function TermsOfService() {
           <ul className="contact-list">
             <li><strong>AcquisitionPro LLC</strong></li>
             <li>Email: <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a></li>
-            <li>Website: <a href="https://acquisitions-pro.com">acquisitions-pro.com</a></li>
+            <li>Website: <a href="https://acquisitionpro.net">acquisitionpro.net</a></li>
           </ul>
         </section>
       </div>
