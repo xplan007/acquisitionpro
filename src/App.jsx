@@ -252,6 +252,7 @@ function Footer() {
           <div className="footer-col">
             <h4>Company</h4>
             <ul>
+              <li><Link to="/about">About Us</Link></li>
               <li><a href="#process">Our Process</a></li>
               <li><a href="#contact">Contact</a></li>
             </ul>
