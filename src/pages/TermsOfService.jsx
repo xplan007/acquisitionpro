@@ -193,6 +193,7 @@ export default function TermsOfService() {
           <ul className="contact-list">
             <li><strong>AcquisitionPro LLC</strong></li>
             <li>Email: <a href="mailto:contact@acquisitionpro.net">contact@acquisitionpro.net</a></li>
+            <li>Phone: <a href="tel:+13079982025">+1 (307) 998-2025</a></li>
             <li>Website: <a href="https://acquisitionpro.net">acquisitionpro.net</a></li>
           </ul>
         </section>
